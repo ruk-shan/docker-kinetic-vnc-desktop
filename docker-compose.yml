@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  ros_melodic:
+    build: ./docker_kinetic
+    ports:
+      - 5001:80
