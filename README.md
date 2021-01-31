@@ -1,4 +1,4 @@
-docker-ubuntu-vnc-desktop
+docker-ros-kinetic-vnc-desktop
 =========================
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/ct2034/vnc-ros-kinetic-full.svg)](https://hub.docker.com/r/ct2034/vnc-ros-kinetic-full/)
