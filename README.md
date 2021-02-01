@@ -9,8 +9,9 @@ Docker image to provide HTML5 VNC interface to access ROS kinetic on Ubuntu 16.0
 
 Option -1 > Quick Start with docker-compose
 -------------------------
+```
 docker-compose up --build
-docker-compose up --build
+```
 open with http://127.0.0.1:5001
 
 Option -2 > Quick Start - with docker build
